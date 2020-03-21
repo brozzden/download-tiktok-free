@@ -1,0 +1,10 @@
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\bin\Debug\Download Tik Tok VietNam.exe.config
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\bin\Debug\Download Tik Tok VietNam.exe
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\bin\Debug\Download Tik Tok VietNam.pdb
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download Tik Tok VietNam.csprojAssemblyReference.cache
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download_Tik_Tok_VietNam.Form1.resources
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download_Tik_Tok_VietNam.Properties.Resources.resources
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download Tik Tok VietNam.csproj.GenerateResource.cache
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download Tik Tok VietNam.csproj.CoreCompileInputs.cache
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download Tik Tok VietNam.exe
+E:\SeleniumCsharp\Download Tik Tok VietNam\Download Tik Tok VietNam\obj\Debug\Download Tik Tok VietNam.pdb

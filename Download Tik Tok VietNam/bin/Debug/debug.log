@@ -1,0 +1,32 @@
+[0321/220248.713:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example517214759\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/220248.714:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example517214759\Crashpad\reports\6d44a367-ea34-43fa-a545-38ff5f8dfa04.dmp: The system cannot find the path specified. (0x3)
+[0321/220248.714:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/225609.569:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example772885343\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/225609.571:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example772885343\Crashpad\reports\452e2d53-4a53-462b-a250-9805a79af0d9.dmp: The system cannot find the path specified. (0x3)
+[0321/225609.571:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/225749.846:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example565032055\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/225749.847:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example565032055\Crashpad\reports\baeca116-ad0c-488a-9ebf-ffd7764164d4.dmp: The system cannot find the path specified. (0x3)
+[0321/225749.847:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/225934.561:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/225934.567:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example537184099\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/225934.567:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example537184099\Crashpad\reports\368a58eb-598b-49d0-bd6e-21ea23312782.dmp: The system cannot find the path specified. (0x3)
+[0321/225934.567:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/230251.029:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/230251.035:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example778728431\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/230251.035:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example778728431\Crashpad\reports\3045ecdb-75a8-44bd-99ff-a4a41b8af968.dmp: The system cannot find the path specified. (0x3)
+[0321/230251.035:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/230408.105:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example581417083\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0321/230426.791:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/230426.797:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example451550683\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/230426.798:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example451550683\Crashpad\reports\f4ccabcb-bfa5-4ba4-a84b-8ee8bddfd854.dmp: The system cannot find the path specified. (0x3)
+[0321/230426.798:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/230740.134:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/230740.134:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/230740.134:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/230740.134:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/230740.134:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/231007.018:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/231007.096:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example575128543\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0321/231147.938:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example629598067\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0321/231147.938:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\chromedp-example629598067\Crashpad\reports\bee6b6dd-0e98-40e5-85dc-3f0e9b699ba8.dmp: The system cannot find the path specified. (0x3)
+[0321/231147.938:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
